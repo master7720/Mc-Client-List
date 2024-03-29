@@ -11,8 +11,10 @@ A Up To Date Minecraft Hacked Client List
 
 # Free
 
-* [Meteor](https://meteorclient.com/) - Meteor distinguishes itself as a free and open-source client, offering a comprehensive array of features without any cost. With robust combat modules and utility functions, Meteor provides a well-rounded experience for Anarchy players. One of its standout features is its powerful addon system, which allows users to integrate their own custom code seamlessly.
+* [Meteor](https://meteorclient.com/) - Meteor distinguishes itself as a free and open-source client, offering a comprehensive array of features without any cost. With robust combat modules and utility functions, Meteor provides a well-rounded experience for Anarchy players. Known standout features is its powerful addon system, which allows users to integrate their own custom code seamlessly.
 
-+ [Thunderhack](https://thunderhack.onrender.com/) - 
++ [Thunderhack](https://thunderhack.onrender.com/) - Client has decent features such as its powerful combat modules and visual modules.
 
 #Private
+
+
